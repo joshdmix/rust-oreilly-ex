@@ -1,0 +1,8 @@
+[package]
+name = "mandelbrot"
+version = "0.1.0"
+authors = ["jdm1986 <josh.mix@eltoro.com>"]
+edition = "2018"
+
+[dependencies]
+num = "0.1.27"
