@@ -1,0 +1,14 @@
+/home/joshuamix/rust-oreilly/mandelbrot/target/release/deps/libpng-4208fa58e5faaf8a.rlib: /home/joshuamix/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.7.0/src/lib.rs /home/joshuamix/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.7.0/src/chunk.rs /home/joshuamix/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.7.0/src/crc.rs /home/joshuamix/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.7.0/src/decoder/mod.rs /home/joshuamix/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.7.0/src/decoder/stream.rs /home/joshuamix/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.7.0/src/encoder.rs /home/joshuamix/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.7.0/src/filter.rs /home/joshuamix/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.7.0/src/traits.rs /home/joshuamix/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.7.0/src/common.rs /home/joshuamix/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.7.0/src/utils.rs
+
+/home/joshuamix/rust-oreilly/mandelbrot/target/release/deps/png-4208fa58e5faaf8a.d: /home/joshuamix/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.7.0/src/lib.rs /home/joshuamix/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.7.0/src/chunk.rs /home/joshuamix/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.7.0/src/crc.rs /home/joshuamix/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.7.0/src/decoder/mod.rs /home/joshuamix/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.7.0/src/decoder/stream.rs /home/joshuamix/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.7.0/src/encoder.rs /home/joshuamix/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.7.0/src/filter.rs /home/joshuamix/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.7.0/src/traits.rs /home/joshuamix/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.7.0/src/common.rs /home/joshuamix/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.7.0/src/utils.rs
+
+/home/joshuamix/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.7.0/src/lib.rs:
+/home/joshuamix/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.7.0/src/chunk.rs:
+/home/joshuamix/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.7.0/src/crc.rs:
+/home/joshuamix/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.7.0/src/decoder/mod.rs:
+/home/joshuamix/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.7.0/src/decoder/stream.rs:
+/home/joshuamix/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.7.0/src/encoder.rs:
+/home/joshuamix/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.7.0/src/filter.rs:
+/home/joshuamix/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.7.0/src/traits.rs:
+/home/joshuamix/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.7.0/src/common.rs:
+/home/joshuamix/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.7.0/src/utils.rs:
